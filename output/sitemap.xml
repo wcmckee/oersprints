@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>http://oersprints.nz/archive.html</loc>
+  <lastmod>2015-12-29T13:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://oersprints.nz/blog/index.html</loc>
+  <lastmod>2015-12-29T13:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://oersprints.nz/categories/index.html</loc>
+  <lastmod>2015-12-29T13:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://oersprints.nz/galleries/index.html</loc>
+  <lastmod>2015-12-29T13:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://oersprints.nz/index.html</loc>
+  <lastmod>2015-12-29T13:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://oersprints.nz/listings/index.html</loc>
+  <lastmod>2015-12-29T13:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://oersprints.nz/resources.html</loc>
+  <lastmod>2015-12-29T13:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://oersprints.nz/start.html</loc>
+  <lastmod>2015-12-29T09:19:00Z</lastmod>
+ </url>
+</urlset>
