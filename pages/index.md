@@ -7,36 +7,41 @@
 .. description: 
 .. type: text
 
+![logo](assets/img/logo.svg)
+
 On 30 April, we're working together to make Open Educational Resources. Join us.
 
-On 30 April, 2016, a range of teachers, librarians, academics, technologists, editors and maybe even a few lawyers will get together around the 
-country to collaboratively produce free, open educational resources.
+A range of teachers, librarians, academics, technologists, editors – and maybe even a few lawyers – will get together around the country to collaboratively make and adapt free, open educational resources.
 
 These resources will then become available for *anyone* to access, adapt and reuse.
 
-We want to grow a commons of open educational resources, so that every teacher in New Zealand has free and open access to all the resources they need, without having to ask permission or reinvent the wheel. If you want to know more about open educational resources in New Zealand schools, you can read more here.
+We want to grow a commons of open educational resources, so that every teacher in New Zealand has free and open access to all the resources they need, without having to ask permission or reinvent the wheel. Many of these resources already exist – the next step is to share them openly, so they can be used, adapted and improved, for the benefit of all.
 
-We'll be building on the success of similar projects, such as the Media Text Hack, in which a group of educators created a free and open Media 
-Studies undergraduate textbook in a weekend (now an assigned textbook at the University of Otago).
+Come along to the OER Sprints to:
 
-Register your interest, and help us make open educational resources for kiwi educators.
+- Make new resources from scratch; or
+- Adapt and share your existing resources openly.
 
-Open Educational Resources
+Learn more about the OER Sprints and Open Educational Resources.
+
+Fill out [Sprints Participants](https://etherpad.net/p/OER_Sprints) or email matt@creativecommons.org.nz to register.
+
+**Open Educational Resources**
 
 The aim of the Open Educational Resource (OER) sprint aims to make and adapt new OERs in a limited time-frame. Learn more about Open Educational 
 Resources and the OER Sprints.
 
-Help organise the OER Sprints
+**Help organise the OER Sprints**
 
 We're looking for people to help plan and run the events. If you want to help organise or host an event (or if you're just feeling nosy), 
 you can join our open Loomio group.
 
-Sponsor the OER Sprints
+**Sponsor the OER Sprints**
 
 We're looking for national and local sponsors for the Open Educational Resource sprints. Whether you're a local or national organisation, 
 if you're keen to help out, please get in touch.
 
-Locations and Venues
+**Locations and Venues**
 
 Dunedin
 
@@ -85,3 +90,10 @@ Contact: matt@creativecommons.org.nz
 
 Brought to you by:
 
+[Creative Commons Aotearoa New Zealand](http://creativecommons.org.nz)
+
+[NZASE: The New Zealand Association of Science Educators](http://nzase.org.nz/)
+ 
+[Double Farley](http://www.doublefarley.com/)
+
+[House Of Science](http://www.houseofscience.org.nz/)

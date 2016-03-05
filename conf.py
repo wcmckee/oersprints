@@ -17,16 +17,16 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "oersprints"  # (translatable)
-BLOG_TITLE = "oersprints"  # (translatable)
+BLOG_AUTHOR = "oersprint"  # (translatable)
+BLOG_TITLE = "oersprint"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://oersprints.nz"
+SITE_URL = "http://oersprint.nz"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
-BLOG_EMAIL = "joe@demo.site"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BLOG_EMAIL = "matt@creativecommons.org.nz"
+BLOG_DESCRIPTION = "Sprinting to provide Open Educational Resources"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -127,9 +127,7 @@ INDEX_PATH = "blog"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archives"),
-        ("/categories/index.html", "Tags"),
-        ("/rss.xml", "RSS feed"),
+	("https://github.com/wcmckee/oersprints", "Site Source"),
     ),
 }
 
@@ -166,7 +164,7 @@ THEME_COLOR = '#5670d4'
 #
 
 POSTS = []
-PAGES = [("pages/*.txt", "", "story.tmpl")]
+PAGES = [("pages/*.md", "", "story.tmpl")]
 
 
 
@@ -755,7 +753,18 @@ RSS_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
-LICENSE = ""
+LICENSE = """
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+<img alt="Creative Commons Attribution 4.0 International License"
+style="border-width:0; margin-bottom:12px;"
+src="http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg"></a>
+<br /><span xmlns:dct="http://purl.org/dc/terms/"
+property="dct:title">oersprint.nz</span> by
+<a xmlns:cc="http://creativecommons.org/ns#" 
+href="http://oersprint.nz" property="cc:attributionName"
+rel="cc:attributionURL">oersprint</a> is licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+"""
 # I recommend using the Creative Commons' wizard:
 # https://creativecommons.org/choose/
 # LICENSE = """
